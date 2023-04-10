@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://soeren-gross.github.io/sitemap.xml
